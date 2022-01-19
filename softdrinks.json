@@ -1,0 +1,98 @@
+[
+  {
+    "id": "28",
+    "name": "Burger",
+    "propellant": "$140",
+    "destination": "Alpha Centauri A",
+    "imageurl":"https://media.istockphoto.com/photos/closeup-of-home-made-tasty-burger-on-wooden-table-picture-id1300482641?b=1&k=20&m=1300482641&s=170667a&w=0&h=4wmDNS7Y3X_bxnUXUNykuLDf7yt_4ZhbqP3bPkhWFsg=",
+    "technologyexists": "1"
+  },
+  {
+    "id": "29",
+    "name": "Pizza",
+    "propellant": "$550",
+    "destination": "Proxima Centauri",
+    "imageurl":"https://image.shutterstock.com/image-photo/supreme-pizza-lifted-slice-1-260nw-84904912.jpg",
+    "technologyexists": "0"
+  },
+  {
+    "id": "30",
+    "name": "Hot Dog",
+    "propellant": "$120",
+    "destination": "Venus",
+    "imageurl": "https://image.shutterstock.com/image-photo/hot-dog-ketchup-on-white-260nw-1050709121.jpg",
+    "technologyexists": "1"
+  },
+  {
+    "id": "31",
+    "name": "Pioneer",
+    "propellant": "Laser Beam",
+    "destination": "Saturn",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/pioneer.jpg",
+    "technologyexists": "0"
+  },
+  {
+    "id": "32",
+    "name": "James Web",
+    "propellant": "Anti-Matter",
+    "destination": "Asteroid Belt",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/spitzer.jpg",
+    "technologyexists": "1"
+  },
+  {
+    "id": "33",
+    "name": "WMAP",
+    "propellant": "Warp Drive",
+    "destination": "Canis Majos",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/wmap.jpg",
+    "technologyexists": "0"
+  },
+  {
+    "id": "34",
+    "name": "Kepler",
+    "propellant": "Nuclear Energy",
+    "destination": "Uranus",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/kepler.jpg",
+    "technologyexists": "1"
+  },
+  {
+    "id": "35",
+    "name": "Enterprise",
+    "propellant": "Laser Beam",
+    "destination": "Pluto",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/enterprise.jpg",
+    "technologyexists": "0"
+  },
+  {
+    "id": "36",
+    "name": "Rostter",
+    "propellant": "Laser Beam",
+    "destination": "Mercury",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/rosetta.jpg",
+    "technologyexists": "1"
+  },
+  {
+    "id": "37",
+    "name": "Columbia",
+    "propellant": "Plasma Ions",
+    "destination": "Alpha Centauri",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/columbia.jpg",
+    "technologyexists": "1"
+  },
+  {
+    "id": "38",
+    "name": "Hubble",
+    "propellant": "Anti-Matter",
+    "destination": "Cosmos Redshift",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/hubble.jpg",
+    "technologyexists": "0"
+  },
+   {
+    "id": "39",
+    "name": "Spitzer",
+    "propellant": "Nuclear Energy",
+    "destination": "Bernard 68",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/spitzer.jpg",
+    "technologyexists": "1"
+  }
+]
